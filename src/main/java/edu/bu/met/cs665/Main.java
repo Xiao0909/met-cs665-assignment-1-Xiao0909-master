@@ -1,24 +1,5 @@
 package edu.bu.met.cs665;
 
-import edu.bu.met.cs665.example1.Person;
-import org.apache.log4j.Logger;
-// import org.apache.log4j.PropertyConfigurator;
-
-// public class Main {
-
-//   public static void main (String[] arg){
-//     Main DrinkVenderMachine = new main()
-//     getDrink();
-//   }
-
-
-//   public static void getDrink（）   {
-//     Drink drink = new Coffee（）；
-
-//   }
-  
-// }
-// Main.java
 import java.util.Scanner;
 
 public class Main {
@@ -60,21 +41,7 @@ public class Main {
     }
 }
 
-// Tea.java
-public class Tea extends Drink {
-    public Tea(int type) {
-        super(type);
-    }
-}
 
-// Relish.java
-public class Relish {
-    private int sugarUnits;
-    private int milkUnits;
 
-    public Relish(int sugarUnits, int milkUnits) {
-        this.sugarUnits = sugarUnits;
-        this.milkUnits = milkUnits;
-    }
-}
+
 

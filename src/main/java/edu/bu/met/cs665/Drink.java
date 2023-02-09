@@ -1,4 +1,4 @@
-package edu.bu.met.cs665
+package edu.bu.met.cs665;
 
 public abstract class Drink {
     private int type;

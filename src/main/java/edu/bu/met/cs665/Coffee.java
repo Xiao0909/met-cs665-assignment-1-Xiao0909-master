@@ -1,5 +1,4 @@
-package edu.bu.met.cs665
-import Drink
+package edu.bu.met.cs665;
 
 public class Coffee extends Drink {
     public Coffee(int type) {
