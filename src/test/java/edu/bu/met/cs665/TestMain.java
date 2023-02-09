@@ -25,6 +25,15 @@ public class TestMain {
         // assert statements to verify the output of the program
     }    
 
+    // @Test
+    // public void testBrewBeverage() {
+    //     Main main = new Main();
+    //     main.brewBeverage("coffee", "espresso", 1, 2);
+    //     main.brewBeverage("tea", "black tea", 0, 0);
+    //     main.brewBeverage("coffee", "latte macchiato", 3, 3);
+    //     main.brewBeverage("tea", "green tea", 2, 1);
+    //     main.brewBeverage("invalid", "invalid", 0, 0);
+    // }
     
     
 }
